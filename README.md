@@ -31,6 +31,7 @@ Adventure Works, a leader in the sports and adventure gear industry, relies on p
     In 2006, the 2nd quarter had the highest profit.
     In 2007, the 4th quarter had the highest profit.
     In 2008, the 2nd quarter had the highest profit.
+
 5: Which countries contributed the most to revenue, and what is their combined profit contribution?
   - Australia had the highest revenue in different years, followed by the United States. Combined, Australia and the United States contribute to 63% of the profit.
 
