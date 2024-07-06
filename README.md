@@ -20,7 +20,7 @@ Operate within budget limits while ensuring data security and compliance with in
 7. Customers:  Indirectly benefit from improved product offerings and pricing strategies based on the analysis.
 8. Compliance and Legal Teams:  Ensure that data usage complies with relevant regulations and industry standards.
 
-[dashboard1](https://github.com/harshita5199/Adventure_work_sales_analysis/assets/170127833/00652972-fe3e-4111-b629-6fbe81ae5b30)
+![dashboard1](https://github.com/harshita5199/Adventure_work_sales_analysis/assets/170127833/00652972-fe3e-4111-b629-6fbe81ae5b30)
 
 ## Approach:
 1. Data Preparation: Import and clean the bank loan dataset. Transform data using Power Query Editor.
