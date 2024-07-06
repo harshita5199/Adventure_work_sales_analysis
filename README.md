@@ -20,6 +20,8 @@ Operate within budget limits while ensuring data security and compliance with in
 7. Customers:  Indirectly benefit from improved product offerings and pricing strategies based on the analysis.
 8. Compliance and Legal Teams:  Ensure that data usage complies with relevant regulations and industry standards.
 
+[dashboard1](https://github.com/harshita5199/Adventure_work_sales_analysis/assets/170127833/00652972-fe3e-4111-b629-6fbe81ae5b30)
+
 ## Approach:
 1. Data Preparation: Import and clean the bank loan dataset. Transform data using Power Query Editor.
 2. Exploratory Data Analysis (EDA): Generate summary statistics and initial visualizations. Segment data by key variables.
@@ -69,6 +71,8 @@ Operate within budget limits while ensuring data security and compliance with in
 12: What percentage of the overall market share do the top 5 products cover in terms of profit?
   - The top 5 products cover almost 25% of the overall market share in terms of profit.
 
+
+![dashboard2](https://github.com/harshita5199/Adventure_work_sales_analysis/assets/170127833/b284c0f9-d98c-4c7e-a6c0-a675cea1b935)
 
 ## Conclusion:
 The analysis suggests focusing on maintaining strong sales in Australia and the United States, enhancing the profitability of black, red, and silver-colored products, and targeting customers aged 50 and above. Emphasizing expensive product lines and high transaction volumes will sustain profit margins while promoting top-performing products can consolidate market share. To increase sales among customers under 30, tailored schemes and products should be developed, with inclusive marketing appealing to both genders. Reevaluating materials and strategies for less popular colors and maintaining the quality of less expensive products will boost appeal and customer satisfaction. These strategies will help Adventure Works meet diverse customer needs and sustain growth in a competitive market.
